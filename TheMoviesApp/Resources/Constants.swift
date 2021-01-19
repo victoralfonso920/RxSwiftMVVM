@@ -5,7 +5,7 @@
 import Foundation
 
 struct Constants {
-    static let apiKey = "?api_key=273021042b3dfa23c9df10b5c3320bf2"
+    static let apiKey = "?api_key=YOUR_API_KEY"
     
     
     struct URL {
